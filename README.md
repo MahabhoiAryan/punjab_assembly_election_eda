@@ -1,4 +1,4 @@
-# Punjab Asseembly Election 2022
+# Punjab Assembly Election 2022
 Punjab Assembly Elections 2022 - Exploratory Data Analysis
 
 # Question - 
